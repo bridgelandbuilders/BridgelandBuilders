@@ -63,8 +63,8 @@ export default {
       head: ['Option', 'Choice', 'Estimator range'],
       rows: [
         ['Plumbing', 'New plumbing needed', '$1,500–$2,750'],
-        ['Bathroom', 'Adding a bathroom', '$5,000–$7,500'],
-        ['Flooring', 'Carpet', '$1,000–$2,000'],
+        ['Bathroom', 'Adding a bathroom', '$10,000–$14,00'],
+        ['Flooring', 'Carpet', '$2,500–$4,000'],
         ['Flooring', 'Laminate', '$1,500–$2,500'],
         ['Flooring', 'Ceramic or porcelain tile', '$2,500–$3,500'],
         ['Flooring', 'Hardwood', '$3,000–$4,000'],
